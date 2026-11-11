@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ivan 👋
 
-<!--
-**ivandobr-cmd/ivandobr-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Security Specialist (Penetration Tester / SOC)
 
-Here are some ideas to get you started:
+I am a cybersecurity professional with a unique background in medicine (surgeon, ICU nurse). My medical experience gave me high stress resistance, analytical thinking, and the ability to stay calm in critical situations — skills that are crucial for incident investigation and vulnerability research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am actively developing my skills in web application security and infrastructure hardening.
+
+### 🚀 My Main Portfolios
+
+*   🔍 **[PortSwigger Web Security Academy Write-ups](https://github.com/ivandobr-cmd/Portswiggerlabs)** 
+    *   .md write-ups to solved labs: SQLi, XSS, SSRF, Request Smuggling, Web Cache Poisoning.
+*   🛡️ **[Yandex Practicum Projects](https://github.com/ivandobr-cmd/ProjectsPracticum)** 
+    *   Pentest, Privilege Escalation, SOC (Wazuh, Incident Response), FSTEC-21 Compliance Audit, Linux/Windows Hardening, Ansible automation.
+
+### 🛠 Tech Stack & Tools
+*   **Pentest:** Burp Suite, Nmap, ffuf, SQLmap, Metasploit.
+*   **SOC/IR:** Wazuh (SIEM), Wireshark, FTK Imager.
+*   **Infra & Audit:** Linux, Active Directory, nftables, FSTEC-21, Ansible.
+*   **Languages:** Python (basics), Bash, English (B2), German (A2).
+
+### 📈 Future Plans
+*   [ ] Expand PortSwigger write-ups (aiming for 100+ labs).
+*   [ ] Deepen knowledge in Active Directory penetration testing.
